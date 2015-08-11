@@ -17,7 +17,6 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'spree_backend', '~> 3.0.0'
 
-  s.add_development_dependency 'active_model_serializers', '0.9.0.alpha1'
   s.add_development_dependency 'rspec-rails', '~> 3.1.0'
   s.add_development_dependency 'sqlite3'
   s.add_development_dependency 'ffaker'
